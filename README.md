@@ -1,2 +1,9 @@
-# node-vue3-bms
-vue3全家桶+element-plus后台管理系统
+# 一、项目概述
+vue3.2版本更新setup语法糖之后，必然是未来的趋势，所以vue3我们不再是3.0的写法。
+而这个项目和node-vue3-bmsplus所用技术栈是一致的，不过一个用js，一个用ts罢了。
+
+# 二、前端后台管理项目admin
+从零创建项目，配置别名、全家sass、路由、状态管理等一系列功能插件全部重零引入。
+
+# 三、server端提供接口API
+koa + mongodb 
